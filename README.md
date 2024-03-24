@@ -1,1 +1,1 @@
- https://minzana.github.io/SampleProject/
+ https://minzana.github.io/SampleProject/index.html.html
